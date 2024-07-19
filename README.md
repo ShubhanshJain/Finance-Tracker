@@ -12,6 +12,7 @@ Features:
 
 4. Generate reports and visualizations with Matplotlib.
 
+
 ![Screenshot 2024-07-19 at 10 48 02 AM](https://github.com/user-attachments/assets/af274479-dd6a-40da-8f81-16a11e2bb7ce)
 
 Technologies Used:
@@ -26,5 +27,6 @@ Technologies Used:
 
 
 Contributing
+
 We welcome contributions to this project! Please feel free to fork the repository, make changes, and submit a pull request.
 
